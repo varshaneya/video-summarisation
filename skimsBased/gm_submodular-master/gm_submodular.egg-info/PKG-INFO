@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: gm-submodular
+Version: 0.1
+Summary: submodular functions for maximization and stochastic gradient decent
+Home-page: http://www.vision.ee.ethz.ch/~gyglim/
+Author: Michael Gygli, ETH Zurich
+Author-email: gygli@vision.ee.ethz.ch
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
